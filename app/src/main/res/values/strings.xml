@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">baterky</string>
     <string name="action_battery">Ručně vyplnit data o baterce</string>
-    <string name="action_account">Změnit uživatelské údaje</string>
+    <string name="action_account">Změnit/vytvořit company</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -19,6 +19,16 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_addressLine1">Adresa 1</string>
+    <string name="hint_addressLine2">Adresa 2</string>
+    <string name="hint_city">Město</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Telefon</string>
+    <string name="hint_title">Název</string>
+    <string name="zipCode">PSČ</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="hint_company_id">IČO</string>
+    <string name="hint_serial_number">Sériové číslo</string>
+    <string name="hint_description">Popis</string>
 </resources>
